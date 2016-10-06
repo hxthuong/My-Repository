@@ -1,0 +1,9 @@
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\bin\Debug\zoo.exe.config
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\bin\Debug\zoo.exe
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\bin\Debug\zoo.pdb
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\obj\Debug\zoo.csprojResolveAssemblyReference.cache
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\obj\Debug\zoo.Form1.resources
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\obj\Debug\zoo.Properties.Resources.resources
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\obj\Debug\zoo.csproj.GenerateResource.Cache
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\obj\Debug\zoo.exe
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\zoo\zoo\obj\Debug\zoo.pdb
